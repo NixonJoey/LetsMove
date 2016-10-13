@@ -2,9 +2,9 @@
 
 namespace LetsMove
 {
-	static class CFunctions
+	public static class LetsMove
 	{
-		[DllImport ("~/LetsMove.framework")]
-		static extern void PFMoveToApplicationsFolderIfNecessary ();
+		[DllImport ("LetsMove.framework/LetsMove")]
+		public static extern void PFMoveToApplicationsFolderIfNecessary ();
 	}
 }

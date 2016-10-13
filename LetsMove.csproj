@@ -40,7 +40,7 @@
     <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
   </ItemGroup>
   <ItemGroup>
-    <NativeReference Include="..\..\Source\PERRLA\PERRLA.Mac\Frameworks\LetsMove.framework">
+    <NativeReference Include="external\LetsMove.framework">
       <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
     </NativeReference>

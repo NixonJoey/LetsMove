@@ -7,6 +7,7 @@ namespace MoveTester
 		static void Main(string[] args)
 		{
 			NSApplication.Init();
+			LetsMove.LetsMove.PFMoveToApplicationsFolderIfNecessary ();
 			NSApplication.Main(args);
 		}
 	}
