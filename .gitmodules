@@ -1,0 +1,3 @@
+[submodule "external/LetsMove"]
+	path = external/LetsMove
+	url = git@github.com:potionfactory/LetsMove.git
