@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsMove", "LetsMove.csproj", "{5C5FD6DB-E997-4515-8C41-3288AFB1F024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveTester", "MoveTester.csproj", "{150B58B1-CD5D-4EEB-B4B5-2E9462F75C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5FD6DB-E997-4515-8C41-3288AFB1F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5FD6DB-E997-4515-8C41-3288AFB1F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5FD6DB-E997-4515-8C41-3288AFB1F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5FD6DB-E997-4515-8C41-3288AFB1F024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150B58B1-CD5D-4EEB-B4B5-2E9462F75C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B58B1-CD5D-4EEB-B4B5-2E9462F75C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B58B1-CD5D-4EEB-B4B5-2E9462F75C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B58B1-CD5D-4EEB-B4B5-2E9462F75C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

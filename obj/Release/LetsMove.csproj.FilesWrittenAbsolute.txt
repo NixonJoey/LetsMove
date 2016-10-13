@@ -1,0 +1,6 @@
+/Users/Joey/Projects/LetsMove/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/Joey/Projects/LetsMove/bin/Release/LetsMove.dll
+/Users/Joey/Projects/LetsMove/obj/Release/LetsMove.dll
+/Users/Joey/Source/Personal/LetsMove/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/Joey/Source/Personal/LetsMove/bin/Release/LetsMove.dll
+/Users/Joey/Source/Personal/LetsMove/obj/Release/LetsMove.dll
